@@ -1,0 +1,17 @@
+{
+  "name": "simple-logger-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Smriti B",
+  "reg-no": "212221040156",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

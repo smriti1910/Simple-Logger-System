@@ -1,0 +1,13 @@
+New user Authenticated!
+Username: smriti 
+Password: smriti123 
+URL: /api/checkLoggerData/smriti/smriti123 
+Date: 7/10/2024, 2:53:17 PM 
+Method Type: POST 
+New user Authenticated!
+Username: smriti 
+Password: smriti123 
+URL: /api/checkLoggerData/smriti/smriti123 
+Date: 7/10/2024, 6:04:40 PM 
+Method Type: POST 
+Status: Pass 
